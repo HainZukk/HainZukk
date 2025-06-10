@@ -30,7 +30,6 @@ I'm interested in web design and backend development.
 <p>
     <a href="https://github.com/HainZukk"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/HainZukk"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-	<a href="https://github.com/HainZukk"><img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -48,6 +47,8 @@ I'm interested in web design and backend development.
     <a href="https://github.com/HainZukk"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/HainZukk"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="https://github.com/HainZukk"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+		<a href="https://github.com/HainZukk"><img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
 </p>
 
 ### 🏢 Office
