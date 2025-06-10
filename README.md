@@ -30,6 +30,7 @@ I'm interested in web design and backend development.
 <p>
     <a href="https://github.com/HainZukk"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/HainZukk"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+	<a href="https://github.com/HainZukk"><img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
