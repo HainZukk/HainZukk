@@ -9,8 +9,6 @@ Hi, I'm Tobias Nguyen!
 I'm a Programming Technician student at UTN. I know Python and C++, as well as libraries like Matplotlib, among others. I'm passionate about learning and creating new, productive, innovative, and creative things.
 I'm interested in web design and backend development.
 - 🌱 I’m currently learning ...
-  - HTML
-  - CSS
   - C++
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
