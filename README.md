@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Sobre mí<br><br>Soy **Tobias Nguyen**, desarrollador enfocado en la creación de soluciones tecnológicas eficientes y bien estructuradas.  <br>Me interesa la aplicación de buenas prácticas, la optimización del código y el diseño de software con arquitectura clara y mantenible.<br><br>Actualmente curso la **Tecnicatura Universitaria en Programación** en la **UTN**, donde profundizo en fundamentos de programación, algoritmos, estructuras de datos y desarrollo de aplicaciones.<br><br>Mi objetivo es seguir perfeccionando mis habilidades técnicas y contribuir a proyectos que combinen innovación, calidad y propósito.<br><br>---<br><br>> “El código limpio es aquel que se siente como si siempre hubiera estado ahí.”  <br>> — Robert C. Martin<br>
 
 
