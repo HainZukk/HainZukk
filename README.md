@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hola, soy Tobias<br><br>💻 Desarrollador con experiencia en **front-end y back-end**.  <br>🚀 Me gusta crear proyectos útiles y bien estructurados, desde **bots de Discord** hasta **sistemas de gestión** o **apps de trading**.  <br>🎓 Estudio en la **UTN** y sigo aprendiendo cada día algo nuevo sobre **C++**, **Python** y **seguridad informática**.  <br><br>🌱 Actualmente trabajando en proyectos de automatización y análisis de datos.  <br>⚡ Fun fact: también me dedico a la **fotografía deportiva** en Argentina 📸.<br>
+## 👋 Hola, soy Tobias<br><br>💻 Desarrollador con experiencia en **front-end y back-end**.  <br>🚀 Me gusta crear proyectos útiles y bien estructurados, desde **bots de Discord** hasta **sistemas de gestión**.  <br>🎓 Estudio en la **UTN** y sigo aprendiendo cada día algo nuevo sobre **C++**, **Python** y **seguridad informática**.  <br><br>🌱 Actualmente trabajando en proyectos de automatización y análisis de datos.  <br>⚡ Fun fact: también me dedico a la **fotografía deportiva** en Argentina 📸.<br>
 
 
 ## 🌐 Socials:
